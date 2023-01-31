@@ -6,9 +6,9 @@ This application can be used for writing, saving and also deleting notes. This a
 
  ## Deployed Link
 
-Ryan: https://ryanzubayer.github.io/Express.js-Challenge-Note-Taker/
+Ryan: https://cammmmmm1.github.io/Note-Taker/
 
-GitHub repository URL: https://github.com/ryanzubayer/Express.js-Challenge-Note-Taker/edit/main/README.md
+GitHub repository URL: https://github.com/cammmmmm1/Note-Taker/edit/main/README.md
 
 
 ## User Story
